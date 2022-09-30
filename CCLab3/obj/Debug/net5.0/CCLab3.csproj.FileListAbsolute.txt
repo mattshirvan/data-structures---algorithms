@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AlgoBigO\CCLab3\bin\Debug\net5.0\CCLab3.exe
+C:\Users\User\source\repos\AlgoBigO\CCLab3\bin\Debug\net5.0\CCLab3.deps.json
+C:\Users\User\source\repos\AlgoBigO\CCLab3\bin\Debug\net5.0\CCLab3.runtimeconfig.json
+C:\Users\User\source\repos\AlgoBigO\CCLab3\bin\Debug\net5.0\CCLab3.runtimeconfig.dev.json
+C:\Users\User\source\repos\AlgoBigO\CCLab3\bin\Debug\net5.0\CCLab3.dll
+C:\Users\User\source\repos\AlgoBigO\CCLab3\bin\Debug\net5.0\ref\CCLab3.dll
+C:\Users\User\source\repos\AlgoBigO\CCLab3\bin\Debug\net5.0\CCLab3.pdb
+C:\Users\User\source\repos\AlgoBigO\CCLab3\obj\Debug\net5.0\CCLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgoBigO\CCLab3\obj\Debug\net5.0\CCLab3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgoBigO\CCLab3\obj\Debug\net5.0\CCLab3.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgoBigO\CCLab3\obj\Debug\net5.0\CCLab3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgoBigO\CCLab3\obj\Debug\net5.0\CCLab3.dll
+C:\Users\User\source\repos\AlgoBigO\CCLab3\obj\Debug\net5.0\ref\CCLab3.dll
+C:\Users\User\source\repos\AlgoBigO\CCLab3\obj\Debug\net5.0\CCLab3.pdb
+C:\Users\User\source\repos\AlgoBigO\CCLab3\obj\Debug\net5.0\CCLab3.genruntimeconfig.cache
+C:\Users\User\source\repos\AlgoBigO\CCLab3\obj\Debug\net5.0\CCLab3.csprojAssemblyReference.cache
