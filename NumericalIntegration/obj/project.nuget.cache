@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzFuwaR/N9db5ug4sfQ9uVbQ3xOJ0yp7L30+gjyUu++Tu+UNqSUIeHrWfdatcG6uBOX0z6e8pGORCZ3jehp8rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\AlgoBigO\\NumericalIntegration\\NumericalIntegration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

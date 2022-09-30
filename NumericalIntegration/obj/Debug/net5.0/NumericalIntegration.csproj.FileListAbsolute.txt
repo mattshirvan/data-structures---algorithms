@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\bin\Debug\net5.0\NumericalIntegration.exe
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\bin\Debug\net5.0\NumericalIntegration.deps.json
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\bin\Debug\net5.0\NumericalIntegration.runtimeconfig.json
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\bin\Debug\net5.0\NumericalIntegration.runtimeconfig.dev.json
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\bin\Debug\net5.0\NumericalIntegration.dll
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\bin\Debug\net5.0\ref\NumericalIntegration.dll
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\bin\Debug\net5.0\NumericalIntegration.pdb
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\obj\Debug\net5.0\NumericalIntegration.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\obj\Debug\net5.0\NumericalIntegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\obj\Debug\net5.0\NumericalIntegration.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\obj\Debug\net5.0\NumericalIntegration.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\obj\Debug\net5.0\NumericalIntegration.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\obj\Debug\net5.0\NumericalIntegration.dll
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\obj\Debug\net5.0\ref\NumericalIntegration.dll
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\obj\Debug\net5.0\NumericalIntegration.pdb
+C:\Users\User\source\repos\AlgoBigO\NumericalIntegration\obj\Debug\net5.0\NumericalIntegration.genruntimeconfig.cache
