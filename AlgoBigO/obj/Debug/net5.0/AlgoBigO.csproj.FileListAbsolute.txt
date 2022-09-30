@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\bin\Debug\net5.0\AlgoBigO.exe
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\bin\Debug\net5.0\AlgoBigO.deps.json
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\bin\Debug\net5.0\AlgoBigO.runtimeconfig.json
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\bin\Debug\net5.0\AlgoBigO.runtimeconfig.dev.json
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\bin\Debug\net5.0\AlgoBigO.dll
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\bin\Debug\net5.0\ref\AlgoBigO.dll
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\bin\Debug\net5.0\AlgoBigO.pdb
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\obj\Debug\net5.0\AlgoBigO.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\obj\Debug\net5.0\AlgoBigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\obj\Debug\net5.0\AlgoBigO.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\obj\Debug\net5.0\AlgoBigO.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\obj\Debug\net5.0\AlgoBigO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\obj\Debug\net5.0\AlgoBigO.dll
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\obj\Debug\net5.0\ref\AlgoBigO.dll
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\obj\Debug\net5.0\AlgoBigO.pdb
+C:\Users\User\source\repos\AlgoBigO\AlgoBigO\obj\Debug\net5.0\AlgoBigO.genruntimeconfig.cache
