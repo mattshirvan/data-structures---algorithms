@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iKWVztIeQ3KxYD0CAwCt/LI+W46qP96wtki63ffIdVxd1rZwNupyMQGCMTLOHTfI3gBOkNoWzPms6HMGitMVnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\AlgoBigO\\CCLab6\\CCLab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

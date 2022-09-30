@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AlgoBigO\CCLab6\bin\Debug\net5.0\CCLab6.exe
+C:\Users\User\source\repos\AlgoBigO\CCLab6\bin\Debug\net5.0\CCLab6.deps.json
+C:\Users\User\source\repos\AlgoBigO\CCLab6\bin\Debug\net5.0\CCLab6.runtimeconfig.json
+C:\Users\User\source\repos\AlgoBigO\CCLab6\bin\Debug\net5.0\CCLab6.runtimeconfig.dev.json
+C:\Users\User\source\repos\AlgoBigO\CCLab6\bin\Debug\net5.0\CCLab6.dll
+C:\Users\User\source\repos\AlgoBigO\CCLab6\bin\Debug\net5.0\ref\CCLab6.dll
+C:\Users\User\source\repos\AlgoBigO\CCLab6\bin\Debug\net5.0\CCLab6.pdb
+C:\Users\User\source\repos\AlgoBigO\CCLab6\obj\Debug\net5.0\CCLab6.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AlgoBigO\CCLab6\obj\Debug\net5.0\CCLab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgoBigO\CCLab6\obj\Debug\net5.0\CCLab6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgoBigO\CCLab6\obj\Debug\net5.0\CCLab6.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgoBigO\CCLab6\obj\Debug\net5.0\CCLab6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgoBigO\CCLab6\obj\Debug\net5.0\CCLab6.dll
+C:\Users\User\source\repos\AlgoBigO\CCLab6\obj\Debug\net5.0\ref\CCLab6.dll
+C:\Users\User\source\repos\AlgoBigO\CCLab6\obj\Debug\net5.0\CCLab6.pdb
+C:\Users\User\source\repos\AlgoBigO\CCLab6\obj\Debug\net5.0\CCLab6.genruntimeconfig.cache
