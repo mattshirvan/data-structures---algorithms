@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AlgoBigO\ALists\bin\Debug\net5.0\ALists.exe
+C:\Users\User\source\repos\AlgoBigO\ALists\bin\Debug\net5.0\ALists.deps.json
+C:\Users\User\source\repos\AlgoBigO\ALists\bin\Debug\net5.0\ALists.runtimeconfig.json
+C:\Users\User\source\repos\AlgoBigO\ALists\bin\Debug\net5.0\ALists.runtimeconfig.dev.json
+C:\Users\User\source\repos\AlgoBigO\ALists\bin\Debug\net5.0\ALists.dll
+C:\Users\User\source\repos\AlgoBigO\ALists\bin\Debug\net5.0\ref\ALists.dll
+C:\Users\User\source\repos\AlgoBigO\ALists\bin\Debug\net5.0\ALists.pdb
+C:\Users\User\source\repos\AlgoBigO\ALists\obj\Debug\net5.0\ALists.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AlgoBigO\ALists\obj\Debug\net5.0\ALists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgoBigO\ALists\obj\Debug\net5.0\ALists.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgoBigO\ALists\obj\Debug\net5.0\ALists.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgoBigO\ALists\obj\Debug\net5.0\ALists.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgoBigO\ALists\obj\Debug\net5.0\ALists.dll
+C:\Users\User\source\repos\AlgoBigO\ALists\obj\Debug\net5.0\ref\ALists.dll
+C:\Users\User\source\repos\AlgoBigO\ALists\obj\Debug\net5.0\ALists.pdb
+C:\Users\User\source\repos\AlgoBigO\ALists\obj\Debug\net5.0\ALists.genruntimeconfig.cache
