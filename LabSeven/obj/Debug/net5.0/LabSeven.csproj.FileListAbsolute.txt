@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AlgoBigO\LabSeven\bin\Debug\net5.0\LabSeven.exe
+C:\Users\User\source\repos\AlgoBigO\LabSeven\bin\Debug\net5.0\LabSeven.deps.json
+C:\Users\User\source\repos\AlgoBigO\LabSeven\bin\Debug\net5.0\LabSeven.runtimeconfig.json
+C:\Users\User\source\repos\AlgoBigO\LabSeven\bin\Debug\net5.0\LabSeven.runtimeconfig.dev.json
+C:\Users\User\source\repos\AlgoBigO\LabSeven\bin\Debug\net5.0\LabSeven.dll
+C:\Users\User\source\repos\AlgoBigO\LabSeven\bin\Debug\net5.0\ref\LabSeven.dll
+C:\Users\User\source\repos\AlgoBigO\LabSeven\bin\Debug\net5.0\LabSeven.pdb
+C:\Users\User\source\repos\AlgoBigO\LabSeven\obj\Debug\net5.0\LabSeven.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AlgoBigO\LabSeven\obj\Debug\net5.0\LabSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgoBigO\LabSeven\obj\Debug\net5.0\LabSeven.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgoBigO\LabSeven\obj\Debug\net5.0\LabSeven.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgoBigO\LabSeven\obj\Debug\net5.0\LabSeven.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgoBigO\LabSeven\obj\Debug\net5.0\LabSeven.dll
+C:\Users\User\source\repos\AlgoBigO\LabSeven\obj\Debug\net5.0\ref\LabSeven.dll
+C:\Users\User\source\repos\AlgoBigO\LabSeven\obj\Debug\net5.0\LabSeven.pdb
+C:\Users\User\source\repos\AlgoBigO\LabSeven\obj\Debug\net5.0\LabSeven.genruntimeconfig.cache

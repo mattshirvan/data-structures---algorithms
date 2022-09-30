@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AlgoBigO\LabEight\bin\Debug\net5.0\LabEight.exe
+C:\Users\User\source\repos\AlgoBigO\LabEight\bin\Debug\net5.0\LabEight.deps.json
+C:\Users\User\source\repos\AlgoBigO\LabEight\bin\Debug\net5.0\LabEight.runtimeconfig.json
+C:\Users\User\source\repos\AlgoBigO\LabEight\bin\Debug\net5.0\LabEight.runtimeconfig.dev.json
+C:\Users\User\source\repos\AlgoBigO\LabEight\bin\Debug\net5.0\LabEight.dll
+C:\Users\User\source\repos\AlgoBigO\LabEight\bin\Debug\net5.0\ref\LabEight.dll
+C:\Users\User\source\repos\AlgoBigO\LabEight\bin\Debug\net5.0\LabEight.pdb
+C:\Users\User\source\repos\AlgoBigO\LabEight\obj\Debug\net5.0\LabEight.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AlgoBigO\LabEight\obj\Debug\net5.0\LabEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgoBigO\LabEight\obj\Debug\net5.0\LabEight.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgoBigO\LabEight\obj\Debug\net5.0\LabEight.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgoBigO\LabEight\obj\Debug\net5.0\LabEight.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgoBigO\LabEight\obj\Debug\net5.0\LabEight.dll
+C:\Users\User\source\repos\AlgoBigO\LabEight\obj\Debug\net5.0\ref\LabEight.dll
+C:\Users\User\source\repos\AlgoBigO\LabEight\obj\Debug\net5.0\LabEight.pdb
+C:\Users\User\source\repos\AlgoBigO\LabEight\obj\Debug\net5.0\LabEight.genruntimeconfig.cache

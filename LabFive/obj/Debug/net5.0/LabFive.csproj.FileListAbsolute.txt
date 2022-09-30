@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\AlgoBigO\LabFive\bin\Debug\net5.0\LabFive.exe
+C:\Users\User\source\repos\AlgoBigO\LabFive\bin\Debug\net5.0\LabFive.deps.json
+C:\Users\User\source\repos\AlgoBigO\LabFive\bin\Debug\net5.0\LabFive.runtimeconfig.json
+C:\Users\User\source\repos\AlgoBigO\LabFive\bin\Debug\net5.0\LabFive.runtimeconfig.dev.json
+C:\Users\User\source\repos\AlgoBigO\LabFive\bin\Debug\net5.0\LabFive.dll
+C:\Users\User\source\repos\AlgoBigO\LabFive\bin\Debug\net5.0\ref\LabFive.dll
+C:\Users\User\source\repos\AlgoBigO\LabFive\bin\Debug\net5.0\LabFive.pdb
+C:\Users\User\source\repos\AlgoBigO\LabFive\obj\Debug\net5.0\LabFive.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AlgoBigO\LabFive\obj\Debug\net5.0\LabFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgoBigO\LabFive\obj\Debug\net5.0\LabFive.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgoBigO\LabFive\obj\Debug\net5.0\LabFive.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgoBigO\LabFive\obj\Debug\net5.0\LabFive.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgoBigO\LabFive\obj\Debug\net5.0\LabFive.dll
+C:\Users\User\source\repos\AlgoBigO\LabFive\obj\Debug\net5.0\ref\LabFive.dll
+C:\Users\User\source\repos\AlgoBigO\LabFive\obj\Debug\net5.0\LabFive.pdb
+C:\Users\User\source\repos\AlgoBigO\LabFive\obj\Debug\net5.0\LabFive.genruntimeconfig.cache
